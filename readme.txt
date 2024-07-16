@@ -1,2 +1,2 @@
 This is read me file
-Welcome to P1 class today is Tuesday
+Welcome to P1 class Life is Good
